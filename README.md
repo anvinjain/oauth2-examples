@@ -1,4 +1,6 @@
-README
+## README
+
+This repo was created for a talk - Primer on OAuth2. It has example client applications using Oauth2 for user and service authentication.
 
 ```
 pipenv install --python=3.11
@@ -8,6 +10,8 @@ pipenv install flask #installing specific package
 
 
 -------
+
+### Contents of the talk
 
 **OAuth2 Basic - Authentication, Authorization, Multiple Flows**  
 * https://auth0.com/intro-to-iam/what-is-oauth-2
@@ -20,8 +24,3 @@ pipenv install flask #installing specific package
 
 **Client Credentials flow**  
 Facebook App Management demo
-
-**Bringing it home**
-* yak login
-* https://developers.a.musta.ch/docs/default/component/auth-docs/
-* AAT, OAT, IAT, [Oauth2 for partners](https://developer.airbnb.com/docs/getting-started)
